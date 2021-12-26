@@ -41,3 +41,4 @@ Aula 32 - Atualizando usuário e rol
 Aula 33 - Desenho login e registro  
 Aula 34 - Verificar email ao registrar-se  
 Aula 35 - jQuery DataTables Ajax  
+Aula 36 - Adicionando Dashboard  
