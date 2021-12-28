@@ -1,9 +1,13 @@
 # Curso de Laravel 6
 ## Hazlo Facilito
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=k23NTveLzso&list=PLHQYBJgtbP-tD8tFedmxgC9Q4Hzw105Po)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=k23NTveLzso&list=PLHQYBJgtbP-tD8tFedmxgC9Q4Hzw105Po)  
 
 Aula 01 - Introdução  
 Aula 02 - Instalar PHP, MySQL, Composer  
